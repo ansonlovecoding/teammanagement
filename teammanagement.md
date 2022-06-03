@@ -46,6 +46,8 @@
 
 ### 二. 团队人员架构
 
+​	1.1 **团队架构**：
+
 ​	技术团队人员的数量由项目数量，项目规模和需求数量决定，通常会根据职能不同区分不同部门，根据部门人数设立部门负责人，一般团队架构如下：
 
 ​	a) **技术负责人CTO**：负责统筹团队工作安排，工作质量把控，技术钻研和技术培训等；
@@ -65,6 +67,66 @@
 ​	i) **运维部门/小组**：根据需要设立部门组长，主管团队的服务器维护，办公设备管理，网络管理，代码管理，数据库管理；
 
 ​	j) **测试部门/小组**：根据需要设立部门组长，主管团队的测试工作，主要有黑白盒测试；
+
+
+
+​	1.2 **职级设定和要求**：
+
+​	a) 后端开发职级设定和要求：
+
+| 职级 |    职称    |                           技术要求                           |
+| :--: | :--------: | :----------------------------------------------------------: |
+|  P3  | 高级工程师 | 1.掌握Java/Golang/PHP至少2门主流编程语言；2.5年以上的开发经验，有丰富的项目经验，以及主导过1个以上项目开发；3.了解HTTP，TCP/IP等网络协议；4.熟悉Linux，熟悉Docker；5.熟悉Mysql和Redis的使用；6.熟悉MongoDB或者ELK的使用；7.熟悉多线程编程；8.有良好的数据结构和算法基础；9.熟悉高并发技术架构，熟悉分布式系统理论；10.熟悉程序性能调优； |
+|  P2  | 中级工程师 | 1.掌握Java/Golang/PHP等一门主流编程语言；2.3到5年的开发经验，有多个项目开发的经验；3.了解HTTP，TCP/IP等网络协议；4.熟悉Linux，熟悉Docker；5.熟悉Mysql和Redis的使用；6.熟悉MongoDB或者ELK的使用；7.熟悉多线程编程； |
+|  P1  | 初级工程师 | 1.掌握Java/Golang/PHP等一门主流编程语言；2.1到2年的开发经验，计算机技术基础扎实；3.了解HTTP，TCP/IP等网络协议； |
+
+​	b) 前端开发职级设定和要求：
+
+| 职级 |    职称    |                           技术要求                           |
+| :--: | :--------: | :----------------------------------------------------------: |
+|  P3  | 高级工程师 | 1.掌握JS，HTML和CSS；2.5年以上的开发经验，有丰富的项目经验，以及主导过1个以上项目开发；3.熟练使用jquery；4.熟悉Ajax的交互开发；5.掌握Vue/React/Angular多种Web框架；；6.了解HTTP，TCP/IP等网络协议；7.了解HTTP，TCP/IP等网络协议；8.对前端性能调优有一定的理解和运用；9.有良好的数据结构和算法基础；10.熟悉数据加密算法的运用； |
+|  P2  | 中级工程师 | 1.掌握JS，HTML和CSS；2.3-5年的开发经验，有多个项目开发的经验；3.熟练使用jquery；4.熟悉Ajax的交互开发；5.掌握Vue/React/Angular任意一种Web框架；；6.了解HTTP，TCP/IP等网络协议；7.了解HTTP，TCP/IP等网络协议；8.对前端性能调优有一定的理解和运用； |
+|  P1  | 初级工程师 | 1.掌握JS，HTML和CSS；2.1-2年的开发经验，计算机技术基础扎实；3.熟练使用jquery；4.熟悉Ajax的交互开发；5.掌握Vue/React/Angular任意一种Web框架；6.了解HTTP，TCP/IP等网络协议； |
+
+​	c) 移动端开发职级设定和要求：
+
+| 职级 |    职称    |                           技术要求                           |
+| :--: | :--------: | :----------------------------------------------------------: |
+|  P3  | 高级工程师 | 1.熟练掌握安卓和iOS开发所需的Java/Object-C/Swift/Flutter的任意一门；2.5年以上的开发经验，有丰富的项目经验，以及主导过1个以上项目开发；3.熟悉掌握安卓或iOS开发常用的组件库和工具库；4.了解HTTP，TCP/IP等网络协议；5.熟悉多线程编程；6.对移动端性能调优有一定的理解和运用；7.有良好的数据结构和算法基础；8.熟悉数据加密算法的运用； |
+|  P2  | 中级工程师 | 1.熟练掌握安卓和iOS开发所需的Java/Object-C/Swift/Flutter的任意一门；2.3-5年开发经验，有多个项目开发的经验；3.熟悉掌握安卓或iOS开发常用的组件库和工具库；4.了解HTTP，TCP/IP等网络协议；5.熟悉多线程编程；6.对移动端性能调优有一定的理解和运用； |
+|  P1  | 低级工程师 | 1.熟练掌握安卓和iOS开发所需的Java/Object-C/Swift/Flutter的任意一门；2.1-2年开发经验，计算机技术基础扎实；3.熟悉掌握安卓或iOS开发常用的组件库和工具库；4.了解HTTP，TCP/IP等网络协议； |
+
+​	d) 产品职级设定和要求：
+
+| 职级 |   职称   |                           技术要求                           |
+| :--: | :------: | :----------------------------------------------------------: |
+|  P3  | 高级产品 | 1.熟悉掌握Axure原型软件的使用；2.5年以上的产品工作经验，有多个完整的从0到1的产品策划经验；3.对产品质量把控，产品设计有自己的见解；4.有良好的沟通表达能力和文字表达能力；5.熟悉脑图，流程图等图表的运用；6.熟悉需求策划和落实的流程，熟悉需求文档的制作；7.具备数据分析/美术设计/代码功底任意一个加分技能；8.熟练使用竞品分析，紧跟互联网热点； |
+|  P2  | 中级产品 | 1.熟悉掌握Axure原型软件的使用；2.3-5年的产品工作经验，有完整的从0到1的产品策划经验；3.对产品质量把控，产品设计有自己的见解；4.有良好的沟通表达能力和文字表达能力；5.熟悉脑图，流程图等图表的运用；6.熟悉需求策划和落实的流程，熟悉需求文档的制作； |
+|  P1  | 低级产品 | 1.熟悉掌握Axure原型软件的使用；2.1-2年的产品工作经验；3.对产品质量把控，产品设计有自己的见解；4.有良好的沟通表达能力和文字表达能力； |
+
+​	e) 美术设计职级设定和要求：
+
+| 职级 |   职称   |                           技术要求                           |
+| :--: | :------: | :----------------------------------------------------------: |
+|  P3  | 高级美术 | 1.熟练掌握PhotoShop/AE/Sketch等常用的软件；2.5年以上的工作经验，有主导过一个以上的UI项目，并且有一定自己的作品；3.有一定的审美力和创意能力；4.有较强的沟通能力和理解能力；5.对产品的交互设计，用户体验和风格设计上有自己的理解；6.有一定的团队管理能力；7.具备一定手绘和动画制作的能力； |
+|  P2  | 中级美术 | 1.熟练掌握PhotoShop/AE/Sketch等常用的软件；2.3-5年的工作经验，有参与过多个项目，并且有一定自己的作品；3.有一定的审美力和创意能力；4.有较强的沟通能力和理解能力；5.对产品的交互设计，用户体验和风格设计上有自己的理解； |
+|  P1  | 低级美术 | 1.熟练掌握PhotoShop/AE/Sketch等常用的软件；2.1-2年的工作经验；3.有一定的审美力和创意能力；4.有较强的沟通能力和理解能力； |
+
+​	f) 运维职级设定和要求：
+
+| 职级 |   职称   |                           技术要求                           |
+| :--: | :------: | :----------------------------------------------------------: |
+|  P3  | 高级运维 | 1.熟悉Linux系统；2.3-5年的服务器维护经验；3.熟悉阿里云/AWS/华为云任意一种的使用；4.熟悉自动化部署平台的开发和维护；5.熟悉常用服务器监控软件的运用；6.熟悉K8S+Docker容器环境部署和维护；7.熟悉Nginx，Tomcat，Jenkins，MySql，Redis，ELK的部署和维护；8.熟悉数据库的操作和维护；9.熟悉网络安全；10.掌握Shell/Python/Go任意一种语言，具备一定开发能力；11.熟悉高可用和分布式的环境部署； |
+|  P2  | 中级运维 | 1.熟悉Linux系统；2.3-5年的服务器维护经验；3.熟悉阿里云/AWS/华为云任意一种的使用；4.熟悉自动化部署平台的开发和维护；5.熟悉常用服务器监控软件的运用；6.熟悉K8S+Docker容器环境部署和维护；7.熟悉Nginx，Tomcat，Jenkins，MySql，Redis，ELK的部署和维护； |
+|  P1  | 低级运维 | 1.熟悉Linux系统；2.1-2年的服务器维护经验；3.熟悉阿里云/AWS/华为云任意一种的使用； |
+
+​	g) 测试职级设定和要求：
+
+| 职级 |   职称   |                           技术要求                           |
+| :--: | :------: | :----------------------------------------------------------: |
+|  P3  | 高级测试 | 1.熟悉掌握文档编写能力；2.能够根据业务功能编写测试用例；3.有很好的理解能力和表达能力；4.细心和耐心；5.能够使用Jmeter或其他测试工具测试接口的性能；6.了解数据库的基本操作；7.具备代码阅读能力；8.具备一定审美力； |
+|  P2  | 中级测试 | 1.熟悉掌握文档编写能力；2.能够根据业务功能编写测试用例；3.有很好的理解能力和表达能力；4.细心和耐心；5.能够使用Jmeter或其他测试工具测试接口的性能；6.了解数据库的基本操作； |
+|  P1  | 低级测试 | 1.熟悉掌握文档编写能力；2.能够根据业务功能编写测试用例；3.有很好的理解能力和表达能力；4.细心和耐心； |
 
 
 
@@ -99,6 +161,8 @@
 ​	c) **代码管理**：本地服务器部署Gitlab作为代码版本控制系统，由运维负责维护；
 
 ​	d) **API协作**：使用Apifox作为API协作和管理平台，每次功能上线后将API文档导出保存到FTP；
+
+​	e) **办公邮件**：使用谷歌企业邮箱，统一管理员工的邮箱；
 
 
 
@@ -208,7 +272,7 @@
 
 ### 四.团队文化
 
-​	团队文化能够提高团队凝聚力和合作的默契度，让团队更有向心力，从而更好的提高团队的工作效率，推动团队的技术积累，具体可以如设立每周的技术分享会，公司的知识库，学习基金，团建活动等来打造团队文化，我觉得团队的文化重点在以下几方面：
+​	团队文化能够提高团队凝聚力和合作的默契度，让团队更有向心力，从而更好的提高团队的工作效率，推动团队的技术积累，具体可以如设立每周的技术分享会，公司的知识库，学习基金，团建活动等来打造团队文化，团队的文化重点在以下几方面：
 
 ​	a) **效率第一**：中小型团队的工作中效率第一，若有出现影响效率的流程则需要改善，切忌照搬大型企业的规章制度；
 
@@ -274,7 +338,9 @@ We generally use React, Vue, and Angular these three Js Framework. Which one we 
 
 ### 2. Team Structure
 
- The number of technical team members is determined by the number of projects, project scale, and the number of requests. Usually, different departments are distinguished according to different functions, and department heads are established according to the number of departments. The general team structure is as follows:
+ 1.1 **Team Structure**:
+
+​	The number of technical team members is determined by the number of projects, project scale, and the number of requests. Usually, different departments are distinguished according to different functions, and department heads are established according to the number of departments. The general team structure is as follows:
 
  a) **Technical Leader (CTO)**: responsible for coordinating teamwork arrangements, work quality control, technical research, technical training, etc.;
 
@@ -290,9 +356,69 @@ We generally use React, Vue, and Angular these three Js Framework. Which one we 
 
  h) **Art Design Department**: Set up a department leader if needed to be in charge of the production and maintenance of the team’s UI and other art resources;
 
- i) **OP Department**: set up a department leader if needed to be in charge of the team’s server maintenance, office equipment management, network management, code management, and database management;
+ i) **Ops Department**: set up a department leader if needed to be in charge of the team’s server maintenance, office equipment management, network management, code management, and database management;
 
- j) **QA Department**: Set up a department leader if needed to supervise the testing work of the team, mainly black and white box testing;
+ j) **TE Department**: Set up a department leader if needed to supervise the testing work of the team, mainly black and white box testing;
+
+
+
+1.2 **Ranking and Requirements**:
+
+ a) Back-end developer rank setting and requirements:
+
+| Rank |         Title         | Technical Requirements                                       |
+| :--: | :-------------------: | ------------------------------------------------------------ |
+|  P3  |    Senior Engineer    | 1. Master at least 2 mainstream programming languages in Java/Golang/PHP;  2. More than 5 years of development experience, rich project experience, and have led the development of more than 1 project; 3. Understand HTTP, TCP/ IP, and other network protocols; 4. Familiar with Linux and Docker; 5. Familiar with the use of Mysql and Redis; 6. Familiar with the use of MongoDB or ELK; 7. Familiar with multi-threaded programming; 8. Have a good data structure and algorithm foundation understanding; 9 . Familiar with high concurrency technology architecture and distributed system theory; 10. Familiar with program performance tuning; |
+|  P2  | Intermediate Engineer | 1. Master a mainstream programming language such as Java/Golang/PHP; 2. 3 to 5 years of development experience, and with experience in multiple project development; 3. Understand HTTP, TCP/IP and other network protocols; 4 .Familiar with Linux, familiar with Docker; 5. Familiar with the use of Mysql and Redis; 6. Familiar with the use of MongoDB or ELK; 7. Familiar with multi-threaded programming; |
+|  P1  |    Junior Engineer    | 1. Master a mainstream programming language such as Java/Golang/PHP; 2. 1 to 2 years of development experience, solid computer technology foundation; 3. Understand HTTP, TCP/IP and other network protocols; |
+
+ b) Front-end developer rank settings and requirements:
+
+| Rank |         Title         | Technical Requirements                                       |
+| :--: | :-------------------: | ------------------------------------------------------------ |
+|  P3  |    Senior Engineer    | 1. Master JS, HTML and CSS; 2. More than5 years of development experience, rich project experience, and have led the development of more than 1 project; 3. Proficient in using jquery; 4. Familiar with Ajax interactive development ;5. Master Vue/React/Angular web frameworks; 6. Understand HTTP, TCP/IP and other network protocols; 7. Understand HTTP, TCP/IP and other network protocols; 8. Have a certain understanding of front-end performance tuning 9. Have a good data structure and algorithm foundation understanding; 10. Be familiar with the use of data encryption algorithms; |
+|  P2  | Intermediate Engineer | 1. Master JS, HTML and CSS; 2. 3-5 years of development experience, with experience in multiple project development; 3. Proficient in using jquery; 4. Familiar with Ajax interactive development; 5. Master Vue/ React/Angular any web framework; 6. Understand HTTP, TCP/IP and other network protocols; 7. Understand HTTP, TCP/IP and other network protocols; 8. Have a certain understanding and application of front-end performance tuning; |
+|  P1  |    Junior Engineer    | 1. Master JS, HTML and CSS; 2.1-2 years of development experience, solid foundation in computer technology; 3. Proficient in using jquery; 4. Familiar with Ajax interactive development; 5. Master Vue/React/Angular Any kind of web framework; 6. Understand HTTP, TCP/IP and other network protocols; |
+
+ c) Mobile developer rank settings and requirements:
+
+| Rank |         Title         | Technical Requirements                                       |
+| :--: | :-------------------: | ------------------------------------------------------------ |
+|  P3  |    Senior Engineer    | 1. Proficient in any one of Java/Object-C/Swift/Flutter required for Android and iOS development; 2. More than 5 years of development experience, rich project experience, and have led more than 1 project development; 3. Familiar with component libraries and tool libraries commonly used in Android or iOS development; 4. Understand HTTP, TCP/IP and other network protocols; 5. Familiar with multi-threaded programming; 6. Have a certain understanding of mobile performance tuning 7. Have a good data structure and algorithm foundation understanding; 8. Familiar with the use of data encryption algorithms; |
+|  P2  | Intermediate Engineer | 1. Proficient in any one of Java/Object-C/Swift/Flutter required for Android and iOS development; 2. 3-5 years of development experience, with experience in multiple project development; 3. Familiar with mastery Component libraries and tool libraries commonly used in Android or iOS development; 4. Understand HTTP, TCP/IP and other network protocols; 5. Familiar with multi-threaded programming; 6. Have a certain understanding and application of mobile performance tuning; |
+|  P1  |    Junior Engineer    | 1. Proficient in any one of Java/Object-C/Swift/Flutter required for Android and iOS development; 2. 1-2 years of development experience, solid computer technology foundation; 3. Familiar with Android or iOS Develop common component libraries and tool libraries; 4. Understand HTTP, TCP/IP and other network protocols; |
+
+ d) Product Manager rank setting and requirements:
+
+| Rank |            Title             | Technical Requirements                                       |
+| :--: | :--------------------------: | ------------------------------------------------------------ |
+|  P3  |   Advanced Product Manager   | 1. Familiar with the use of Axure prototype software; 2. More than 5 years of product work experience, with multiple complete product planning experience from 0 to 1; 3. Control product quality and have own opinions on product design 4. Good communication and expression skills; 5. Familiar with the use of diagrams such as brain maps and flowcharts; 6. Familiar with the process of demand planning and implementation, and the production of demand documents; 7. Have data analysis /Art Design/Coding Any one of the bonus skills; 8. Proficiency in using competitive product analysis, keeping up with Internet hotspots; |
+|  P2  | Intermediate Product Manager | 1. Familiar with the use of Axure prototype software; 2. 3-5 years of product work experience, with complete product planning experience from 0 to 1; 3. Control product quality and have own opinions on product design 4. Good communication and expression skills; 5. Familiar with the use of diagrams such as brain maps and flowcharts; 6. Familiar with the process of requirements planning and implementation, and the production of requirements documents; |
+|  P1  |  Low-level Product Manager   | 1. Familiar with the use of Axure prototype software; 2. 1-2 years of product work experience; 3. Control product quality and have own opinions on product design; 4. Good communication and expression skills; |
+
+ e) Art designer rank setting and requirements:
+
+| Rank |           Title           | Technical Requirements                                       |
+| :--: | :-----------------------: | ------------------------------------------------------------ |
+|  P3  |   Advanced Art Designer   | 1. Proficient in commonly used software such as PhotoShop/AE/Sketch; 2. More than 5 years of work experience, have led more than one UI project, and have certain own works; 3. Have a certain aesthetic ability and creative ability; 4. Have strong communication and understanding ability; 5. Have own understanding of product interaction design, user experience and style design; 6. Have certain team management ability; 7. Have ability  to draw and animate; |
+|  P2  | Intermediate Art Designer | 1. Proficient in commonly used software such as PhotoShop/AE/Sketch; 2. 3-5 years of work experience, have participated in many projects, and have certain own works; 3. Have a certain aesthetic ability and Creative ability; 4. Have strong communication and understanding ability; 5. Have own understanding of product interaction design, user experience and style design; |
+|  P1  |  Low-level Art Designer   | 1. Proficient in commonly used software such as PhotoShop/AE/Sketch; 2. 1-2 years of work experience; 3. Have certain aesthetic and creative ability; 4. Have strong communication and understanding skills ; |
+
+ f) Ops rank setting and requirements:
+
+| Rank |      Title       | Technical Requirements                                       |
+| :--: | :--------------: | ------------------------------------------------------------ |
+|  P3  |   Advanced Ops   | 1. Familiar with Linux system; 2. More than 5 years of server maintenance experience; 3. Familiar with the use of any one of Alibaba Cloud/AWS/Huawei Cloud; 4. Familiar with the development and maintenance of automated deployment platforms; 5 .Familiar with the use of common server monitoring software; 6.Familiar with the deployment and maintenance of K8S+Docker container environment; 7.Familiar with the deployment and maintenance of Nginx, Tomcat, Jenkins, MySql, Redis, ELK; 8.Familiar with database operation and maintenance; 9 .Familiar with network security; 10.Master any language of Shell/Python/Go, with certain development capabilities; 11.Familiar with high-availability and distributed environment deployment; |
+|  P2  | Intermediate Ops | 1. Familiar with Linux system; 2. 3-5 years of server maintenance experience; 3. Familiar with the use of any one of Alibaba Cloud/AWS/Huawei Cloud; 4. Familiar with the development and maintenance of automated deployment platforms; 5 .Familiar with the use of common server monitoring software; 6.Familiar with the deployment and maintenance of K8S+Docker container environment; 7.Familiar with the deployment and maintenance of Nginx, Tomcat, Jenkins, MySql, Redis, ELK; |
+|  P1  |  Low-level Ops   | 1. Familiar with Linux system; 2. 1-2 years of server maintenance experience; 3. Familiar with the use of any one of Alibaba Cloud/AWS/Huawei Cloud; |
+
+ g) Test Engineer rank setting and requirements:
+
+| Rank |           Title            | Technical Requirements                                       |
+| :--: | :------------------------: | ------------------------------------------------------------ |
+|  P3  |   Advanced Test Engineer   | 1. Familiar with the ability to write documents; 2. Be able to write test cases based on business; 3. Have good understanding and expression skills; 4. Be careful and patient; 5. Be able to use Jmeter or other tests Tool to test the performance of the API; 6. Understand the basic operation of the database; 7. Have the ability to read code; 8. Have a certain aesthetic ability; |
+|  P2  | Intermediate Test Engineer | 1. Familiar with the ability to write documents; 2. Be able to write test cases based on business; 3. Have good understanding and expression skills; 4. Be careful and patient; 5. Be able to use Jmeter or other tests Tool to test the performance of the API; 6. Understand the basic operation of the database; |
+|  P1  |  Low-level Test Engineer   | 1. Familiar with the ability to write documents; 2. Be able to write test cases according to business; 3. Have good understanding and expression skills; 4. Be careful and patient; |
 
 
 
@@ -320,7 +446,7 @@ We generally use React, Vue, and Angular these three Js Framework. Which one we 
 
 1.1 **Using Software**:
 
- a) **Project Management**: The open-source version of "Zentao" is deployed on the local server as project management software. "Zentao" is used for establishing the project by the project manager, organizing the requirements by the product manager, and managing bugs by QA. It is maintained by the OP department ;
+ a) **Project Management**: The open-source version of "Zentao" is deployed on the local server as project management software. "Zentao" is used for establishing the project by the project manager, organizing the requirements by the product manager, and managing bugs by Test Engineer. It is maintained by the OP department ;
 
  b) **File Management**: FTP is deployed on the local server as the project document storage, and the authority assignment of each employee is done well, and the OP department is responsible for the maintenance;
 
@@ -436,7 +562,7 @@ c) For the release of the official environment, the project manager and the tech
 
 ### 4. Team Culture
 
- Team culture can improve team cohesion and tacit understanding of cooperation, and make the team more cohesive, thereby better improving the team’s work efficiency and promoting the team’s technology accumulation. Specifically, such as setting up weekly technology sharing meetings, the company’s knowledge base, learning funds, team building activities, etc. to build team culture, I think the focus of team culture is in the following aspects:
+ Team culture can improve team cohesion and tacit understanding of cooperation, and make the team more cohesive, thereby better improving the team’s work efficiency and promoting the team’s technology accumulation. Specifically, such as setting up weekly technology sharing meetings, the company’s knowledge base, learning funds, team building activities, etc. to build team culture, the focus of team culture is in the following aspects:
 
  a) **Efficiency First**: Efficiency comes first in the work of small and medium-sized teams. If there is a process that affects efficiency, it needs to be improved. Do not copy the rules and regulations of large enterprises;
 
